@@ -8,3 +8,8 @@ crdschemas/
 
 developer-workspace/gitpod/_output
 developer-workspace/codespaces/kind 
+.codex-repo-context.json
+.DS_Store
+.env
+*.tfstate
+*.tfstate.*
